@@ -2,7 +2,7 @@
 
 - Bộ code bắn pháo hoa chúc mừng năm mới đơn giản sử dụng React, FireworksJS và CSS Animation...vv
 
-- Demo: https://trungquandev.github.io/fireworks-tqd/
+- Demo: https://laidung6862.github.io/firework-2025/
 
 ### Requirements
 

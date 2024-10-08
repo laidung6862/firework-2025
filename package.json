@@ -2,9 +2,9 @@
   "name": "fireworks-tqd",
   "version": "0.0.0",
   "type": "module",
-  "author": "TrungQuanDev - Một Lập Trình Viên",
-  "description": "https://youtube.com/@trungquandev",
-  "homepage": "https://trungquandev.github.io/fireworks-tqd",
+  "author": "LaidungDev - Một Lập Trình Viên",
+  "description": "code linh tinh",
+  "homepage": "https://laidung6862.github.io/firework-2025/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
