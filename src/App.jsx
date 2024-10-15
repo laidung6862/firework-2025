@@ -1,9 +1,3 @@
-/**
- * Author: TrungQuanDev - Một Lập Trình Viên
- * Channel: https://youtube.com/@trungquandev
- * Created at: Feb 09, 2024
- */
-
 import { useRef } from 'react'
 import { Fireworks } from '@fireworks-js/react'
 import './App.css'
